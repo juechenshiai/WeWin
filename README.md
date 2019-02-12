@@ -1,40 +1,61 @@
+# 剩者为王WeWin
+当时尝鲜Android studio beta版，做的这个开源项目An Android app for Android studio beta.
 
-剩者为王
-===========================
-据说这个APP程序猿爱不释手，集成了github主流的库是如何使用的，项目开源，将持续更新，欢迎Star。
+# 效果预览Preview
+![](http://7q5c2h.com1.z0.glb.clouddn.com/WeWin.jpg?watermark/2/text/5ZC05bCP6b6Z5ZCM5a24/font/5qW35L2T/fontsize/500/fill/I0VGRUZFRg==/dissolve/100/gravity/SouthEast/dx/10/dy/10)
 
-APK演示
-===========================
-项目apk文件夹下附带安装包，或者扫描以下二维码下载：
+<!--
+# APK预览APK Preview
+[apk download](https://github.com/WuXiaolong/WeWin/raw/master/apk/app-debug.apk)-->
 
-![](https://github.com/WuXiaolong/xUse/raw/master/screenshots/qrcode.png)
+# 开源库Open source projects
 
-效果预览
-===========================
-![](https://github.com/WuXiaolong/xUse/raw/master/screenshots/screenshots.gif)
+* [PullLoadMoreRecyclerView](https://github.com/WuXiaolong/PullLoadMoreRecyclerView)
+* [AndroidUtils](https://github.com/WuXiaolong/AndroidUtils)
+* [Shimmer-android](https://github.com/RomainPiel/Shimmer-android)
+* [ButterKnife](https://github.com/JakeWharton/butterknife)
+* [PhotoView](https://github.com/chrisbanes/PhotoView)
+* [picasso](https://github.com/square/picasso)
+* [retrofit](https://github.com/square/retrofit)
+* [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView)
+* [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
 
-开发工具
-===========================
-Android Studio(0.8.9) + Gradle(1.12)
 
-用到的开源库
-===========================
-目前用到的一些开源库，会持续更新。
-* [ButterKnife](https://github.com/JakeWharton/butterknife)，轻量级View注入框架，省去各种findViewById
-* [PhotoView](https://github.com/chrisbanes/PhotoView)，点击放大缩小
-* [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)，图片缓存机制
-* [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)，瀑布流
-* [android-async-http](https://github.com/loopj/android-async-http)，网络请求框架
-* 整体框架，侧滑菜单，类QQ效果。
-* [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView)，各种圆角
-* [友盟](http://www.umeng.com/)，包括友盟的统计、升级、意见反馈、推送
-* 广告，作为一个程序猿，没有一点副业说不过去。
+# 感谢Thanks
+* [友盟统计umeng analytics](http://www.umeng.com/)
+* [天狗网](http://www.tngou.net/)，[吴小龙同學](http://wuxiaolong.me/)，[句子迷](http://www.juzimi.com/meitumeiju)
 
-更多交流
-===========================
-###Android技术交流群
-①群：314447894<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=d53385cf84362cc7f75360c2d847a573b04ac78deeb567d98f32e13dd95190d9"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="剩者为王①群" title="剩者为王①群"></a><br>
-③群：370527306<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=0a992ba077da4c8325cbfef1c9e81f0443ffb782a0f2135c1a8f7326baac58ac"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="剩者为王③群" title="剩者为王③群"></a>
-###微博
+# 作者博客
+[http://wuxiaolong.me/](http://wuxiaolong.me/)
+
+# 微博
 [吴小龙同學](http://weibo.com/u/2175011601)
 
+# 联系我
+我的微信公众号：吴小龙同学，欢迎关注交流。
+
+![](http://7q5c2h.com1.z0.glb.clouddn.com/qrcode_wuxiaolong.jpg)
+
+# License
+
+MIT License
+
+Copyright (c) 2016 吴小龙同學
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

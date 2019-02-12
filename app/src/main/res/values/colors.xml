@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <color name="primary">#259b24</color>
+    <color name="primary_dark">#0a7e07</color>
+    <color name="accent">@color/primary</color>
+    <color name="text_color_primary">#212121</color>
+    <color name="text_second_color_primary">#646464</color>
     <color name="base_actionbar_bg">#f5f5f5</color>
     <color name="base_action_bar_title_color">#2f2725</color>
     <color name="base_tab_indicator_text_color">#f82c22</color>
@@ -49,4 +53,9 @@
     <color name="red_press">#50ff0000</color>
     <color name="blue">#008ff1</color>
 
+    <color name="holo_blue_light">#3333b5e5</color>
+    <color name="holo_green_light">#3399cc00</color>
+    <color name="holo_red_light">#33ff4444</color>
+    <color name="holo_orange_light">#33ffbb33</color>
+    <color name="holo_purple_light">#33aa66cc</color>
 </resources>
